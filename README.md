@@ -1,4 +1,3 @@
-# sajith-aisha-6-month-anniversary1
 sajith-aisha-6-month-anniversary
 
 │── index.html
